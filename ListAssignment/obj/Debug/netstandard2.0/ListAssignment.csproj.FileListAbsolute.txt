@@ -1,0 +1,8 @@
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/bin/Debug/netstandard2.0/ListAssignment.deps.json
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/bin/Debug/netstandard2.0/ListAssignment.dll
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/bin/Debug/netstandard2.0/ListAssignment.pdb
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/obj/Debug/netstandard2.0/ListAssignment.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/obj/Debug/netstandard2.0/ListAssignment.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/obj/Debug/netstandard2.0/ListAssignment.AssemblyInfo.cs
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/obj/Debug/netstandard2.0/ListAssignment.dll
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/obj/Debug/netstandard2.0/ListAssignment.pdb

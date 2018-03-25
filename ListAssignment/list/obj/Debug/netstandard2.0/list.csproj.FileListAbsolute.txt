@@ -1,0 +1,16 @@
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/bin/Debug/netstandard2.0/list.deps.json
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/bin/Debug/netstandard2.0/list.dll
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/bin/Debug/netstandard2.0/list.pdb
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/obj/Debug/netstandard2.0/list.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/obj/Debug/netstandard2.0/list.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/obj/Debug/netstandard2.0/list.AssemblyInfo.cs
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/obj/Debug/netstandard2.0/list.dll
+/Applications/MAMP/htdocs/ListAssignment/ListAssignment/list/obj/Debug/netstandard2.0/list.pdb
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/obj/Debug/netstandard2.0/list.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/obj/Debug/netstandard2.0/list.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/obj/Debug/netstandard2.0/list.AssemblyInfo.cs
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/obj/Debug/netstandard2.0/list.dll
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/obj/Debug/netstandard2.0/list.pdb
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/bin/Debug/netstandard2.0/list.deps.json
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/bin/Debug/netstandard2.0/list.dll
+/Applications/MAMP/htdocs/ListAssignment-new/ListAssignment/list/bin/Debug/netstandard2.0/list.pdb
