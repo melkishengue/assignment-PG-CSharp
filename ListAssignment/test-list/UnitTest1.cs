@@ -49,12 +49,12 @@ namespace test_list
     }
 
     // tests for the class List
-    public class UnitTestList
+    public class UnitTestListStudent
     {
         String File = System.AppDomain.CurrentDomain.BaseDirectory + "/../../../Data.txt";
         Student[] Students;
 
-        public UnitTestList() {
+        public UnitTestListStudent() {
             UtilsCLass utils = new UtilsCLass();
             Students = utils.loadStudents(this.File);
         }
