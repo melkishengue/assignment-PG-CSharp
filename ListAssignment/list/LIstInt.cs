@@ -13,7 +13,7 @@ namespace ListAssignment
 
             while(current != null) {
                 if(current.Data == search) {
-                    return false;
+                    return true;
                 }
                 current = current.Next;
             }
