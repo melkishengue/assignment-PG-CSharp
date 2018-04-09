@@ -139,7 +139,7 @@ namespace test_list
         [Fact]
         public void TestReplaceOnEmptyListThrowsListElementNotFoundException () {
             ListStudent list = new ListStudent();
-            int matricule = 0000;
+            int matricule = 1111;
 
             ListElement<Student> listElement = new ListElement<Student>(Students[0]);
 
