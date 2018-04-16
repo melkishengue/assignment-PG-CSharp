@@ -13,7 +13,8 @@ namespace ListAssignment
         {
             Head = null;
         }
-
+	
+	// need specific implementation
         abstract public void printList();
         abstract public bool exist(int matricule, ListElement<T> listElement);
         abstract public void replace(int matricule, ListElement<T> listElement);
